@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**HONORPRIDE/HONORPRIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
 
-Here are some ideas to get you started:
+## root:~$ whoami
+>  Software engineer student at [ALX SCHOOL](https://www.alxafrica.com//) \
+>  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<pre>
+
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Software Engineer Student at ALX
+├─▣ From RABAT Morocco
+├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Interested in hight-level Programming, low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/honor-pride-865789196/">LinkedIn</a>
+├─◈ <a href="https://twitter.com/charaf_gdm">Twitter</a>
+├─◈ Discord pseudo :  honorpride
+│
+└───────────────────────────────▰▰▰
+
+</pre>
+
+--------------
