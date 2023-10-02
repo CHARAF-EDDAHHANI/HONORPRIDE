@@ -6,7 +6,7 @@
 </p>
 
 ## root:~$ whoami
->  Software engineer student at [ALX SCHOOL](https://www.alxafrica.com//) \
+>  Software engineering student at [ALX SCHOOL](https://www.alxafrica.com//) \
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
 
