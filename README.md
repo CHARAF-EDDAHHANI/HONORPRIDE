@@ -17,7 +17,7 @@
 ├─▣ Software Engineering Student at ALX
 ├─▣ From RABAT Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in higher-level Programming, low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+├─▣ Interested in higher-level Programming, low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI, the lean/agile way of working.
 │
 └───────────────────────────────▰▰▰
 
