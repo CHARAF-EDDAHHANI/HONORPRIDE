@@ -25,7 +25,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/honor-pride-865789196/">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/charaf_gdm">Twitter</a>
-├─◈ Discord pseudo :  honorpride
+├─◈ E-mail : charaf.gdm@gmail.com
 │
 └───────────────────────────────▰▰▰
 
